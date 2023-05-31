@@ -1,0 +1,26 @@
+SMAP
+AgencyDonationDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 AgencyDonationDetails.jsp
+Agency/AgencyDonationDetails.jsp
++ 1 Head.jsp
+Agency/Head.jsp
++ 2 Foot.jsp
+Agency/Foot.jsp
+*L
+5:51
+6:52,9
+7,10:61
+1#1,100:71
+16#0,12:171
+28,5:184
+32,3:189
+35,6:192,3
+41,2:210
+44,2:214
+45,3:216
+1#2,24:219
+47#0,5:243
+*E
